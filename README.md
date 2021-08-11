@@ -5,8 +5,8 @@ This is the hackintosh for the Rog-Strix-B460i
 
 ## SPECS
 
-+ OS: macOS 11.4 20F71 x86_64 / (SMBIOS: iMac19,1)
-+ OpenCore: 0.6.9
++ OS: macOS 11.5.1 20G80 x86_64 / (SMBIOS: iMac20,2)
++ OpenCore: 0.7.2
 + CPU: Intel i9-10900 (10c20t ES) @ 2.5GHz
 + iGPU: Intel UHD Graphics 630
 + dGPU: Asrock RX560 4G ITX
